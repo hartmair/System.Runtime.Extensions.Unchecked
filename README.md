@@ -1,4 +1,4 @@
-# VB.NET Unchecked
+# System.Runtime.Extensions.Unchecked
 Unchecked integer operations for VB.NET, see https://stackoverflow.com/questions/2403154/fastest-way-to-do-an-unchecked-integer-addition-in-vb-net.
 
 ## Get Started
