@@ -3,7 +3,7 @@ Unchecked integer operations for VB.NET, see https://stackoverflow.com/questions
 
 ## Get Started
 
-Install nuget package `System.Runtime.Extensions.Unchecked`
+Install nuget package `VBMath.Unchecked`
 
 ```vb
 Using System.Numerics
