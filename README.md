@@ -12,3 +12,7 @@ Using System.Numerics
 ' this will not throw
 Dim value = UncheckedInteger.Add(Integer.MaxValue, 1)
 ```
+
+## Contribute
+
+File an issue or provide a pull request.
