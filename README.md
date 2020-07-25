@@ -1,6 +1,10 @@
 # System.Runtime.Extensions.Unchecked
+
+[![NuGet package](https://img.shields.io/nuget/v/VBMath.Unchecked.svg)](https://nuget.org/packages/VBMath.Unchecked)
+
 Unchecked integer operations for VB.NET, see [Fastest way to do an unchecked integer addition in VB.Net?
 ](https://stackoverflow.com/questions/2403154/fastest-way-to-do-an-unchecked-integer-addition-in-vb-net).
+
 
 ## Get Started
 
